@@ -1,0 +1,12 @@
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.exe
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.deps.json
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.runtimeconfig.json
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.dll
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\bin\Debug\netcoreapp3.1\Atividade do produto - 31.08.pdb
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.dll
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.pdb
+C:\Users\Gabi\source\repos\Atividade do produto - 31.08\Atividade do produto - 31.08\obj\Debug\netcoreapp3.1\Atividade do produto - 31.08.genruntimeconfig.cache
