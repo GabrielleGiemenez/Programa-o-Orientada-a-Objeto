@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.exe
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.deps.json
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.runtimeconfig.json
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.dll
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\bin\Debug\netcoreapp3.1\Exercicio - Produto.pdb
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.csprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.dll
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.pdb
+C:\Users\Gabi\source\repos\GabrielleGiemenez\Programa-o-Orientada-a-Objeto\Exercicio - Produto\Exercicio - Produto\obj\Debug\netcoreapp3.1\Exercicio - Produto.genruntimeconfig.cache
