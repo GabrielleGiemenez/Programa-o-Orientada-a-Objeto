@@ -1,0 +1,3 @@
+C:\Users\Gabi\source\repos\Encapsulamento e Properties\Encapsulamento e Properties\obj\Debug\netcoreapp3.1\Encapsulamento e Properties.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Encapsulamento e Properties\Encapsulamento e Properties\obj\Debug\netcoreapp3.1\Encapsulamento e Properties.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Encapsulamento e Properties\Encapsulamento e Properties\obj\Debug\netcoreapp3.1\Encapsulamento e Properties.AssemblyInfo.cs
