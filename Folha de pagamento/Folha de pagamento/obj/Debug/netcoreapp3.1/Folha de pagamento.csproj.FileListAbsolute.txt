@@ -1,0 +1,3 @@
+C:\Users\Gabi\source\repos\Folha de pagamento\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Folha de pagamento\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Folha de pagamento\Folha de pagamento\obj\Debug\netcoreapp3.1\Folha de pagamento.AssemblyInfo.cs
